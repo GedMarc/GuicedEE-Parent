@@ -1,0 +1,6 @@
+[submodule "LogMaster"]
+	path = LogMaster
+	url = https://github.com/GedMarc/LogMaster.git
+[submodule "GuicedInjection"]
+	path = GuicedInjection
+	url = https://github.com/GedMarc/GuiceInjection.git
