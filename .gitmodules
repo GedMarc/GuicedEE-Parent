@@ -4,3 +4,66 @@
 [submodule "GuicedInjection"]
 	path = GuicedInjection
 	url = https://github.com/GedMarc/GuiceInjection.git
+[submodule "Persistence/GuicedPersistence"]
+	path = Persistence/GuicedPersistence
+	url = https://github.com/GedMarc/GuicedPersistence.git
+[submodule "Persistence/BTM"]
+	path = Persistence/BTM
+	url = https://github.com/GedMarc/jpms-btm.git
+[submodule "Persistence/GuicedPersistence-BTM"]
+	path = Persistence/GuicedPersistence-BTM
+	url = https://github.com/GedMarc/GuicedPersistence-BTM.git
+[submodule "Persistence/HibernatePropertiesReader"]
+	path = Persistence/HibernatePropertiesReader
+	url = https://github.com/GedMarc/GuicedPersistence-HibernatePropertiesReader.git
+[submodule "Persistence/C3P0"]
+	path = Persistence/C3P0
+	url = https://github.com/GedMarc/GuicedPersistence-C3P0.git
+[submodule "Persistence/JPA"]
+	path = Persistence/JPA
+	url = https://github.com/GedMarc/GuicedPersistence-JPA.git
+[submodule "Persistence/EclipseLink"]
+	path = Persistence/EclipseLink
+	url = https://github.com/GedMarc/GuicedPersistence-EclipseLinkProperties.git
+[submodule "Persistence/EhCache"]
+	path = Persistence/EhCache
+	url = https://github.com/GedMarc/GuicedPersistence-EhCache.git
+[submodule "Persistence/SystemPropertiesReader"]
+	path = Persistence/SystemPropertiesReader
+	url = https://github.com/GedMarc/GuicedPersistence-SystemPropertiesReader.git
+[submodule "Persistence/Wildfly"]
+	path = Persistence/Wildfly
+	url = https://github.com/GedMarc/GuicedPersistence-Wildfly.git
+[submodule "Persistence/Hazelcast"]
+	path = Persistence/Hazelcast
+	url = https://github.com/GedMarc/GuicedHazelcast.git
+[submodule "Persistence/EntityAssist"]
+	path = Persistence/EntityAssist
+	url = https://github.com/GedMarc/EntityAssist.git
+[submodule "Servlets/GuicedServlets"]
+	path = Servlets/GuicedServlets
+	url = https://github.com/GedMarc/GuicedServlets.git
+[submodule "Servlets/RestServices"]
+	path = Servlets/RestServices
+	url = https://github.com/GedMarc/GuicedRestServices.git
+[submodule "Servlets/JSF"]
+	path = Servlets/JSF
+	url = https://github.com/GedMarc/Guiced-Servlets-JSF.git
+[submodule "Servlets/RequestScoping"]
+	path = Servlets/RequestScoping
+	url = https://github.com/GedMarc/GuicedServletsRequestScoping.git
+[submodule "Servlets/Swagger"]
+	path = Servlets/Swagger
+	url = https://github.com/GedMarc/GuicedSwagger
+[submodule "Servlets/SwaggerUI"]
+	path = Servlets/SwaggerUI
+	url = https://github.com/GedMarc/Guiced-SwaggerUI.git
+[submodule "Servlets/WebServices"]
+	path = Servlets/WebServices
+	url = https://github.com/GedMarc/GuicedWebServices.git
+[submodule "Servlets/Undertow"]
+	path = Servlets/Undertow
+	url = https://github.com/GedMarc/JWebMP-Undertow.git
+[submodule "Servlets/WebSockets"]
+	path = Servlets/WebSockets
+	url = https://github.com/GedMarc/JWebMP-WebSockets.git

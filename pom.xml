@@ -17,6 +17,8 @@
     <modules>
         <module>GuicedInjection</module>
         <module>LogMaster</module>
+		<module>Persistence</module>
+		<module>Servlets</module>
     </modules>
 
 </project>
