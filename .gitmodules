@@ -1,69 +1,92 @@
 [submodule "LogMaster"]
 	path = LogMaster
 	url = https://github.com/GedMarc/LogMaster.git
+	ignore=dirty
 [submodule "GuicedInjection"]
 	path = GuicedInjection
 	url = https://github.com/GedMarc/GuiceInjection.git
+	ignore=dirty
 [submodule "Persistence/GuicedPersistence"]
 	path = Persistence/GuicedPersistence
 	url = https://github.com/GedMarc/GuicedPersistence.git
+	ignore=dirty
 [submodule "Persistence/BTM"]
 	path = Persistence/BTM
 	url = https://github.com/GedMarc/jpms-btm.git
+	ignore=dirty
 [submodule "Persistence/GuicedPersistence-BTM"]
 	path = Persistence/GuicedPersistence-BTM
 	url = https://github.com/GedMarc/GuicedPersistence-BTM.git
+	ignore=dirty
 [submodule "Persistence/HibernatePropertiesReader"]
 	path = Persistence/HibernatePropertiesReader
 	url = https://github.com/GedMarc/GuicedPersistence-HibernatePropertiesReader.git
+	ignore=dirty
 [submodule "Persistence/C3P0"]
 	path = Persistence/C3P0
 	url = https://github.com/GedMarc/GuicedPersistence-C3P0.git
+	ignore=dirty
 [submodule "Persistence/JPA"]
 	path = Persistence/JPA
 	url = https://github.com/GedMarc/GuicedPersistence-JPA.git
+	ignore=dirty
 [submodule "Persistence/EclipseLink"]
 	path = Persistence/EclipseLink
 	url = https://github.com/GedMarc/GuicedPersistence-EclipseLinkProperties.git
+	ignore=dirty
 [submodule "Persistence/EhCache"]
 	path = Persistence/EhCache
 	url = https://github.com/GedMarc/GuicedPersistence-EhCache.git
+	ignore=dirty
 [submodule "Persistence/SystemPropertiesReader"]
 	path = Persistence/SystemPropertiesReader
 	url = https://github.com/GedMarc/GuicedPersistence-SystemPropertiesReader.git
+	ignore=dirty
 [submodule "Persistence/Wildfly"]
 	path = Persistence/Wildfly
 	url = https://github.com/GedMarc/GuicedPersistence-Wildfly.git
+	ignore=dirty
 [submodule "Persistence/Hazelcast"]
 	path = Persistence/Hazelcast
 	url = https://github.com/GedMarc/GuicedHazelcast.git
+	ignore=dirty
 [submodule "Persistence/EntityAssist"]
 	path = Persistence/EntityAssist
 	url = https://github.com/GedMarc/EntityAssist.git
+	ignore=dirty
 [submodule "Servlets/GuicedServlets"]
 	path = Servlets/GuicedServlets
 	url = https://github.com/GedMarc/GuicedServlets.git
+	ignore=dirty
 [submodule "Servlets/RestServices"]
 	path = Servlets/RestServices
 	url = https://github.com/GedMarc/GuicedRestServices.git
+	ignore=dirty
 [submodule "Servlets/JSF"]
 	path = Servlets/JSF
 	url = https://github.com/GedMarc/Guiced-Servlets-JSF.git
+	ignore=dirty
 [submodule "Servlets/RequestScoping"]
 	path = Servlets/RequestScoping
 	url = https://github.com/GedMarc/GuicedServletsRequestScoping.git
+	ignore=dirty
 [submodule "Servlets/Swagger"]
 	path = Servlets/Swagger
 	url = https://github.com/GedMarc/GuicedSwagger
+	ignore=dirty
 [submodule "Servlets/SwaggerUI"]
 	path = Servlets/SwaggerUI
 	url = https://github.com/GedMarc/Guiced-SwaggerUI.git
+	ignore=dirty
 [submodule "Servlets/WebServices"]
 	path = Servlets/WebServices
 	url = https://github.com/GedMarc/GuicedWebServices.git
+	ignore=dirty
 [submodule "Servlets/Undertow"]
 	path = Servlets/Undertow
 	url = https://github.com/GedMarc/JWebMP-Undertow.git
+	ignore=dirty
 [submodule "Servlets/WebSockets"]
 	path = Servlets/WebSockets
 	url = https://github.com/GedMarc/JWebMP-WebSockets.git
+	ignore=dirty
