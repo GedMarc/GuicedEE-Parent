@@ -14,11 +14,15 @@
     <name>Guiced EE Modules</name>
     <description>The root module packager for the Guiced EE Framework</description>
 
-    <modules>
-        <module>GuicedInjection</module>
-        <module>LogMaster</module>
-		<module>Persistence</module>
-		<module>Servlets</module>
-    </modules>
-
+    <profiles>
+        <profile>
+            <id>enable-guicedee</id>
+            <modules>
+                <module>GuicedInjection</module>
+                <module>LogMaster</module>
+                <module>Persistence</module>
+                <module>Servlets</module>
+            </modules>
+        </profile>
+    </profiles>
 </project>
