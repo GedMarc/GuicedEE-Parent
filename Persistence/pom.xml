@@ -27,10 +27,8 @@
                 <module>SystemPropertiesReader</module>
                 <module>EhCache</module>
                 <module>Wildfly</module>
-
                 <module>Hazelcast</module>
                 <module>EntityAssist</module>
-
             </modules>
         </profile>
     </profiles>
