@@ -23,7 +23,7 @@
                 <module>RestServices</module>
                 <module>Swagger</module>
                 <module>SwaggerUI</module>
-                <module>WebServices</module>
+                <!--<module>WebServices</module>-->
                 <module>WebSockets</module>
                 <module>Undertow</module>
             </modules>
