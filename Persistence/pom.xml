@@ -23,7 +23,7 @@
                 <module>HibernatePropertiesReader</module>
                 <module>C3P0</module>
                 <module>JPA</module>
-                <module>EclipseLink</module>
+                <!--<module>EclipseLink</module>-->
                 <module>SystemPropertiesReader</module>
                 <module>EhCache</module>
                 <module>Wildfly</module>
