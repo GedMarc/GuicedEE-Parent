@@ -3,13 +3,13 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.jwebmp.guicedee</groupId>
+        <groupId>com.jwebmp.jpms.guicedee</groupId>
         <artifactId>guiced-ee-modules</artifactId>
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
     <packaging>pom</packaging>
 
-    <groupId>com.jwebmp.guicedee.servlets</groupId>
+    <groupId>com.jwebmp.jpms.guicedee.servlets</groupId>
     <artifactId>servlets-parent</artifactId>
 
     <name>Guiced Servlets Parent</name>

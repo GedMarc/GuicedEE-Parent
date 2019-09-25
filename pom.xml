@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jwebmp.guicedee</groupId>
+    <groupId>com.jwebmp.jpms.guicedee</groupId>
     <artifactId>guiced-ee-modules</artifactId>
     <packaging>pom</packaging>
 
